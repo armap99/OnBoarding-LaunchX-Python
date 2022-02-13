@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Armando\Documents\LaunchX\Actividad2\env"
+VIRTUAL_ENV="C:\Users\Armando\Documents\LaunchX\Python(Semana1)\OnBoarding-LaunchX-Python\Kata2\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
